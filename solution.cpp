@@ -20,6 +20,7 @@ using namespace std;
     a 1  1  1  1  1
     c 1  1  2  2  2
     e 1  1  2  2  3
+  - time complexity O(mn)
 */
 
 int Solution::findLCS(string text1, string text2)
